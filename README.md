@@ -19,7 +19,7 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 ===
 ####Project folders:
 
-@ project . phase - level of completeness - file + version*
+*@ project . phase - level of completeness - file + version*
 
 
 - project (derived from twitter mention): **@**
