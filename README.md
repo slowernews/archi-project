@@ -24,7 +24,6 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 
 - project (derived from twitter mention): **@**
 
-    	Inside main folder or bundles you have projects:
         Example: @house in lisbon
 
 - phase (derived from object oriented programming): **.**
@@ -33,7 +32,7 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
         Example: .building permit
 
         To reduce the need of memorization, when naming the subproject folder
-        you can will add the project name:
+        you'll add the project name:
         Example: @house in lisbon.building permit
 
 - level of completeness: **-**
@@ -50,6 +49,8 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 
 ===
 ####Layers:
+
+- as defined in the dwg file attached.
 
 ===
 ####Others:
