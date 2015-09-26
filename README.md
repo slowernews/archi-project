@@ -46,7 +46,6 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 ####Files:
 
 - name your files using folders notation.
-
 - archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
 
 ===
@@ -57,7 +56,6 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 
 - when naming use spaces instead of camelCase, PascalCase or snake_case.
 - but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
-- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Gerbil-project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
