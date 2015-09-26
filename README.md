@@ -7,9 +7,9 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
 
 ###So, how can you start?
 
-**Organize your documents:**
+**Organize your project:**
 
-- [Project folders](#project-folders)
+- [Project folders structure](#project-folders-structure)
 - [Files](#files)
 - [Layers](#layers)
 - [Others](#others)
@@ -18,7 +18,7 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
 ###// Organize your documents
 
 ===
-####Project folders:
+####Project folders structure:
 
 *@ project . phase - level of completeness - file + version*
 
