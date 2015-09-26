@@ -9,16 +9,16 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
 
 **Organize your project:**
 
-- [Project folders structure](#project-folders-structure)
+- [Folders structure](#folders-structure)
 - [Files](#files)
 - [Layers](#layers)
 - [Others](#others)
 
 ---
-###// Organize your documents
+###// Organize your project
 
 ===
-####Project folders structure:
+####Folders structure:
 
 *@ project . phase - level of completeness - file + version*
 
