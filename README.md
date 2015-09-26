@@ -45,7 +45,7 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 ####Files:
 
 - name your files using folders notation.
-- archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
+- archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . work in progress** 
 
 ===
 ####Layers:
