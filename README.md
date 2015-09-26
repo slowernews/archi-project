@@ -55,10 +55,7 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 ===
 ####Others:
 
-- use spaces instead of camelCase, PascalCase or snake_case:
-
-        Example using spaces: #large investor@house in lisbon  
-
+- when naming use spaces instead of camelCase, PascalCase or snake_case.
 - but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
