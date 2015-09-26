@@ -50,7 +50,7 @@ Organize your architectural project. An ultra-simple system derived from [Hamste
 ===
 ####Layers:
 
-- as defined in the dwg file attached.
+- as defined in the dwg and ctb files attached.
 
 ===
 ####Others:
