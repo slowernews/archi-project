@@ -1,8 +1,8 @@
 Gerbil-project
 ==============
 
-[Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) on your architectural project. Optimized for CAD.
-An ultra-simple system that will boost the productivity of your team.
+[Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) on your architectural project.
+An ultra-simple system that will boost the productivity of your team. Optimized for CAD.
 
 
 ###So, how can you start?
