@@ -4,7 +4,6 @@ Gerbil-project
 [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) on your architectural project.
 An ultra-simple system that will boost the productivity of your team. Optimized for CAD.
 
-
 ###So, how can you start?
 
 **Organize your project:**
@@ -20,8 +19,7 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
 ===
 ####Folders structure:
 
-*@ project . phase - level of completeness - file + version*
-
+*@ project . phase - file + version*
 
 - project (derived from twitter mention): **@**
 
@@ -36,16 +34,10 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
         you'll add the project name:
         Example: @house in lisbon.building permit
 
-- level of completeness: **-**
-
-    	Inside all project phases you have only 2 folders:
-        -work
-        -layout
-
 ===
 ####Files:
 
-- name your files using folders notation.
+- name your files adding folders notation.
 - archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . work in progress** 
 
 ===
