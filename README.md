@@ -38,8 +38,7 @@ An ultra-simple system that will boost the productivity of your team. Optimized 
 ####Files:
 
 - name your files adding folders notation.
-- archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . work in progress**  -- Not clear enough, under revision--
-
+- archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . work in progress** *(Not clear enough, under revision)*
 ===
 ####Layers:
 
