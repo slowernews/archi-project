@@ -1,7 +1,7 @@
 Gerbil-project
 ==============
 
-Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any team. Gerbil-project, based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) but meeting the specific needs of these projects is an ultra-simple system that will boost the productivity of your team.
+Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) but meeting the specific needs of these projects aims to boost the productivity of your team.
 
 ###So, how can you start?
 
