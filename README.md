@@ -1,8 +1,7 @@
 Gerbil-project
 ==============
 
-[Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) on your architectural project.
-An ultra-simple system that will boost the productivity of your team. Optimized for CAD.
+Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any team. Gerbil-project, based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) but meeting the specific needs of these projects is an ultra-simple system that will boost the productivity of your team.
 
 ###So, how can you start?
 
