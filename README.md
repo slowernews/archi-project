@@ -38,22 +38,22 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####Project phases:
 
-- concept
-- permit
-- tender
-- execution
+- concept or CON
+- permit or BP
+- tender or TEN
+- execution or EXE
        
 ===
 ####File naming:
 
 - name your files adding folders notation plus drawing/document name:
 
-        Plans: PP1, P00, P01, P02, P03, (...)
-        Elevations: E01, E02, E03, E04, (...)
-        Sections: S01, S02, S03, (...)
-        Detail: D01, D02, D03, (...)
-        Visualization: V01, V02, V03 (...)
-        Booklet: B01, B02, B03, (...)
+        Plans, PP1, P00, P01, P02, P03, (...)
+        Elevations, E01, E02, E03, E04, (...)
+        Sections, S01, S02, S03, (...)
+        Visualization, V01, V02, V03 (...)
+        Booklet, B01, B02, B03, (...)
+        Detail, D01, D02, D03, (...)
 
 ===
 ####File archiving:
