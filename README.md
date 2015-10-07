@@ -9,7 +9,8 @@ Organizing and naming files of an architectural project - and specially with an 
 
 - [Folders structure](#folders-structure)
 - [Project phases](#project-phases)
-- [Files](#files)
+- [File naming](#file-naming)
+- [File archiving](#file-archiving)
 - [Layers](#layers)
 - [Others](#others)
 
@@ -43,11 +44,22 @@ Organizing and naming files of an architectural project - and specially with an 
 - execution
        
 ===
-####Files:
+####File naming:
 
-- name your files adding folders notation.
+- name your files adding folders notation plus drawing/document name:
+
+        Plans: PP1, P00, P01, P02, P03, (...)
+        Elevations: E01, E02, E03, E04, (...)
+        Sections: S01, S02, S03, (...)
+        Detail: D01, D02, D03, (...)
+        Visualization: V01, V02, V03 (...)
+        Booklet: B01, B02, B03, (...)
+
+===
+####File archiving:
 - archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . work in progress**
-*(Not clear enough, under revision)*
+
+*(Under revision)*
 
 ===
 ####Layers:
