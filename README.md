@@ -1,13 +1,14 @@
 Gerbil-project
 ==============
 
-Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd) but meeting the specific needs of these projects aims to boost the productivity of your team.
+Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of your team.
 
 ###So, how can you start?
 
 **Organize your project:**
 
 - [Folders structure](#folders-structure)
+- [Project phases](#project-phases)
 - [Files](#files)
 - [Layers](#layers)
 - [Others](#others)
@@ -20,19 +21,27 @@ Organizing and naming files of an architectural project - and specially with an 
 
 *@ project . phase - file + version*
 
-- project (derived from twitter mention): **@**
+- project: **@**
 
         Example: @house in lisbon
 
-- phase (derived from object oriented programming): **.**
+- phase: **.**
 
     	Inside projects you have project phases:
-        Example: .building permit
+        Example: .permit
 
         To reduce the need of memorization, when naming the subproject folder
         you'll add the project name:
-        Example: @house in lisbon.building permit
+        Example: @house in lisbon.permit
 
+===
+####Project phases:
+
+- concept
+- permit
+- tender
+- execution
+       
 ===
 ####Files:
 
