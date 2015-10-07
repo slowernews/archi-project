@@ -20,7 +20,7 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####Folders structure:
 
-*@ project . phase - file + version*
+*@ project . phase - level of completeness - file + version*
 
 - project: **@**
 
@@ -34,6 +34,8 @@ Organizing and naming files of an architectural project - and specially with an 
         To reduce the need of memorization, when naming the subproject folder
         you'll add the project name:
         Example: @house in lisbon.permit
+        
+- level of completeness: **layout** or **work**        
 
 ===
 ####Project phases:
@@ -51,9 +53,13 @@ Organizing and naming files of an architectural project - and specially with an 
         Plans, PP1, P00, P01, P02, P03, (...)
         Elevations, E01, E02, E03, E04, (...)
         Sections, S01, S02, S03, (...)
-        Visualization, V01, V02, V03 (...)
+        Visualization, V01, V02, V03, (...)
         Booklet, B01, B02, B03, (...)
         Detail, D01, D02, D03, (...)
+        Siteplan, U01, (...)
+        Floors, F01, F02, (...)
+        Ceilings, C01, C02, (...)
+        Walls, W01, W02, (...)
 
 ===
 ####File archiving:
