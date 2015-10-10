@@ -5,8 +5,8 @@ Organizing and naming files of an architectural project - and specially with an 
 
 **Gerbil-project mantras:**
 
-- *ultra-simple system with an easy learning curve for newbies:* newbies will never see every files of the project where they are working - there is no time to explain all complexity, so every project has a folder with project managing related files. These files are not mixed with the drawings once normally there is specific person that manages them.
-- *dynamic:* all projects are different so nesting complexity will change from project to project (but always following general rules). Doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
+- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a folder with project managing related files.
+- *dynamic:* every project is different so nesting complexity will be always adapted to that spacific project (but always following general rules). As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
 
 
 ###So, how can you start?
