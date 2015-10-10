@@ -20,9 +20,6 @@ Organizing and naming files of an architectural project - and specially with an 
 - [Layers](#layers)
 - [Others](#others)
 
----
-###// Organize your project
-
 ===
 ####Folders structure:
 
