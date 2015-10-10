@@ -3,6 +3,12 @@ Gerbil-project
 
 Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of your team.
 
+**Gerbil-project mantras:**
+
+- *ultra-simple system with an easy learning curve for newbies:* newbies will never see every files of the project where they are working - there is no time to explain all complexity, so every project has a folder with project managing related files. These files are not mixed with the drawings once normally there is specific person that manages them.
+- *dynamic:* all projects are different so nesting complexity will change from project to project (but always following general rules). Doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
+
+
 ###So, how can you start?
 
 **Organize your project:**
