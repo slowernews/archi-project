@@ -83,7 +83,7 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ---
 <sup>Notes:</sup><br>
-<sup>1 - SemVer implies an incremental versioning that doesn't happen laways in an architectural projects, sometimes a version is not more advanced than other version, is just a different path. ArqVer appears to solve that.</sup>
+<sup>1 - SemVer implies an incremental versioning that doesn't always happen in architectural projects, one particular version might not be more advanced than other, it is just a different path. ArqVer appears to solve that problem.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Gerbil-project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
