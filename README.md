@@ -35,7 +35,7 @@ Organizing and naming files of an architectural project - and specially with an 
         Example: .permit
 
         To reduce the need of memorization, when naming the subproject folder
-        you'll add the project name:
+        add the project name:
         Example: @house in lisbon.permit
         
 - level of completeness: **layout** or **work**        
@@ -66,9 +66,9 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ===
 ####File archiving:
-- archive files using ArqVer<sup>1</sup> (system based on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work in progress**
+- archive files using ArqVer<sup>1</sup> (system based on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major version(letter) minor version(letter) work in progress(two digits)**
 
-*(Under revision)*
+        Example: @house in lisbon.permit-plans+AF02
 
 ===
 ####Layers:
