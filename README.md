@@ -66,9 +66,9 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ===
 ####File archiving:
-- archive files using ArqVer<sup>1</sup> (system inspired on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work in progress**
+- archive files using ArqVer<sup>1</sup> (system inspired on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work progress**
 
-        Use a letter for major version, a letter for minor and 2 digits for work in progress. Forget the dots.
+        Use a letter for major version, a letter for minor and 2 digits for work progress. No dots.
         Example: @house in lisbon.permit-plans+AF02
 
 ===
