@@ -14,7 +14,7 @@ Organizing and naming files of an architectural project - and specially with an 
 **Organize your project:**
 
 - [Folders structure](#folders-structure)
-- [Project phases](#project-phases)
+- [Subproject (phases)](#subproject-(phases))
 - [File naming](#file-naming)
 - [File archiving](#file-archiving)
 - [Layers](#layers)
@@ -23,7 +23,7 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####Folders structure:
 
-*@ project . phase ( - level of completeness) - file + version*
+*@ project . subproject (phase) - level of completeness - file + version*
 
 - project: **@**
 
@@ -41,12 +41,13 @@ Organizing and naming files of an architectural project - and specially with an 
 - level of completeness: **layout** or **work**        
 
 ===
-####Project phases:
+####Subproject (phases):
 
 - concept or CON
 - permit or BP
 - tender or TEN
 - execution or EXE
+- (project) management or PM
        
 ===
 ####File naming:
