@@ -23,7 +23,7 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####Folders structure:
 
-*@ project . subproject (phase) - level of completeness - file + version*
+*@ project . subproject (phase) - level of completeness - specific folder*
 
 - project: **@**
 
@@ -67,6 +67,9 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ===
 ####File archiving:
+
+*@ project . subproject (phase) - file + version*
+
 - archive files using ArqVer<sup>1</sup> (system inspired on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work progress**
 
         Use a letter as major version, a letter as minor and 2 digits for work progress. No dots.
