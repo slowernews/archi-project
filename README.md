@@ -1,12 +1,12 @@
 Gerbil-project
 ==============
 
-Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of your team.
+Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of my (your) team.
 
 **Gerbil-project mantras:**
 
 - *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a folder with project managing related files.
-- *dynamic:* every project is different so nesting complexity will be always adapted to that spacific project (but always following general rules). As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
+- *dynamic:* every project is different so nesting complexity will be always adapted to each project (but always following general rules). As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
 
 
 ###So, how can you start?
@@ -23,7 +23,7 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####Folders structure:
 
-*@ project . phase - level of completeness - file + version*
+*@ project . phase ( - level of completeness) - file + version*
 
 - project: **@**
 
