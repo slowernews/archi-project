@@ -52,6 +52,8 @@ Organizing and naming files of an architectural project - and specially with an 
 ===
 ####File naming:
 
+*@ project . subproject (phase) - file + version*
+
 - name your files adding folders notation plus drawing/document name:
 
         Plans, PP1, P00, P01, P02, P03, (...)
@@ -67,8 +69,6 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ===
 ####File archiving:
-
-*@ project . subproject (phase) - file + version*
 
 - archive files using ArqVer<sup>1</sup> (system inspired on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work progress**
 
