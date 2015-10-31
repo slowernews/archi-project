@@ -14,7 +14,7 @@ Organizing and naming files of an architectural project - and specially with an 
 **Organize your project:**
 
 - [Folders structure](#folders-structure)
-- [Subproject (phases)](#subproject-(phases))
+- [Subproject (phases)](#subproject-phases)
 - [File naming](#file-naming)
 - [File archiving](#file-archiving)
 - [Layers](#layers)
