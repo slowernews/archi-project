@@ -88,7 +88,7 @@ Organizing and naming files of an architectural project - and specially with an 
 
 ---
 <sup>Notes:</sup><br>
-<sup>1 - SemVer implies an incremental versioning that doesn't always happen in architectural projects, one particular version might not be more advanced than other, it is just a different path. ArqVer appears to solve that problem.</sup>
+<sup>1 - SemVer implies an incremental versioning that doesn't always happen in architectural projects, one particular version might not be more advanced than other, it is just a different path. ArqVer appears to solve that problem.</sup><br>
 <sup>2 - As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..</sup>
 
 ---
