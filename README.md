@@ -3,10 +3,10 @@ Gerbil-project
 
 Organizing and naming files of an architectural project - and specially with an easy learning curve for newbies - is an huge challenge for any studio. Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of my (your) team.
 
-**Gerbil-project mantras:**
+**Mantras:**
 
 - *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a folder with project managing related files.
-- *dynamic:* every project is different so nesting complexity will be always adapted to each project (but always following general rules). As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..
+- *dynamic:* every project is different so nesting complexity will be adapted to each project (but always following general rules).<sup>2</sup>
 
 
 ###So, how can you start?
@@ -89,6 +89,7 @@ Organizing and naming files of an architectural project - and specially with an 
 ---
 <sup>Notes:</sup><br>
 <sup>1 - SemVer implies an incremental versioning that doesn't always happen in architectural projects, one particular version might not be more advanced than other, it is just a different path. ArqVer appears to solve that problem.</sup>
+<sup>2 - As an example, doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Gerbil-project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
