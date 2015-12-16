@@ -70,9 +70,9 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 ===
 ####File archiving:
 
-- archive files using ArqVer<sup>1</sup> (system inspired on [SemVer](http://www.semver.org/)) where each version *adds* a change on data: **+ major . minor . work progress**
+- archive files using ArqVer<sup>1</sup> (system inspired on [BranchVer](https://github.com/we-build-dreams/branchVer) where each version *adds* a change on data: **+ branch . progress**
 
-        Use a letter as major version, a letter as minor and 2 digits for work progress. No dots.
+        Use a letter as major branch, a letter as minor branch and 2 digits for work progress. No dots.
         Example: @house in lisbon.permit-plans+AF02
 
 ===
