@@ -1,12 +1,12 @@
 Gerbil-project
 ==============
 
-Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of my (your) architectural team.
+Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of an architectural team.
 
-**Mantras:**
+*MANTRAS:*
 
-- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a folder with project managing related files.
-- *dynamic:* every project is different so nesting complexity will be adapted to each project (but always following general rules).<sup>1</sup>
+- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a subproject with project managing related files.
+- *dynamic:* every project is different so nesting complexity will be adapted to every project (but always following general rules).<sup>1</sup>
 
 
 ###So, how can you start?
@@ -15,10 +15,9 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
 - [Folders structure](#folders-structure)
 - [Subproject (phases)](#subproject-phases)
-- [File naming](#file-naming)
-- [File archiving](#file-archiving)
+- [Naming](#naming)
+- [Archiving](#archiving)
 - [Layers](#layers)
-- [Others](#others)
 
 ===
 ####Folders structure:
@@ -50,7 +49,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 - (project) management or PM
        
 ===
-####File naming:
+####Naming:
 
 *@ project . subproject (phase) - file + version*
 
@@ -66,25 +65,22 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
         Floors: FP1, F00, F01, ...
         Ceilings: CP1, C00, C01, ...
         Walls: WP1, W00, W01, ...
+        
+- to simplify (not everybody is a geek) when naming use spaces.
+- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
 ===
-####File archiving:
+####Archiving:
 
-- archive files using ArqVer (system inspired on [BranchVer](https://github.com/we-build-dreams/branchVer) where each version *adds* a change on data: **+ branch . progress**
+- archive files using [BranchVer](https://github.com/we-build-dreams/branchVer) where each version *adds* a change on data: **+ branch . progress**
 
-        Use a letter as major branch, a letter as minor branch and 2 digits for work progress. No dots.
+        Use a letter as branch and 3 digits for work progress. No dots.
         Example: @house in lisbon.permit-plans+AF02
 
 ===
 ####Layers:
 
 - as defined in the dwg and ctb files attached. *(Coming soon)*
-
-===
-####Others:
-
-- to simplify (not everybody is a geek) when naming use spaces.
-- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
 ---
 <sup>Notes:</sup><br>
