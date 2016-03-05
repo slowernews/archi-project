@@ -1,7 +1,7 @@
 Gerbil-project
 ==============
 
-Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the specific needs of an architectural team.
+Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of an architectural team.
 
 *MANTRAS:*
 
