@@ -66,8 +66,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
         Ceilings: CP1, C00, C01, ...
         Walls: WP1, W00, W01, ...
         
-- to simplify (not everybody is a geek) when naming use spaces.
-- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
+- avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
 ===
 ####Archiving:
