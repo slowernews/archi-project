@@ -71,6 +71,8 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 ===
 ####Archiving:
 
+- archive releases of (sub)projects using SemVer (each version *adds* a change on data): **+ major . minor . progress**
+
 - archive files using [BranchVer](https://github.com/we-build-dreams/branchVer) where each version *adds* a change on data: **+ branch . progress**
 
         Use a letter as branch and 3 digits for work progress. No dots.
