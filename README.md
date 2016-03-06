@@ -36,7 +36,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
         add the project name:
         Example: @house in lisbon.permit
         
-- level of completeness: **layout** or **work in progress (WIP)**        
+- level of completeness: **layout (release)** or **WIP (work in progress)**        
 
 ===
 ####Subproject (phases):
