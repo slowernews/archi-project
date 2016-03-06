@@ -5,7 +5,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
 *MANTRAS:*
 
-- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all project files - in large projects there is no time to explain all complexity - so every project has a subproject with project managing related files.
+- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all files - in large projects there isn't even time to explain all complexity - so every project has a subproject with project managing related files.
 - *dynamic:* every project is different so nesting complexity will be adapted to every project (but always following general rules).<sup>1</sup>
 
 
