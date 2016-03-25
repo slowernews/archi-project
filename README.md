@@ -76,6 +76,8 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
         Use a letter as branch and 3 digits for work progress. No dots.
         Example: @house in lisbon.permit-plans+A082
+        
+- keep a *changelog* file in every project.
 
 ===
 ####Layers:
