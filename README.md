@@ -52,7 +52,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
 *@ project . subproject (phase) - file + version*
 
-- name your files adding folders notation plus drawing/document name:
+- name your files using folders notation plus drawing/document name:
 
         Plans: PP1, P00, P01, P02, P03, ...
         Elevations: E01, E02, E03, E04, ...
