@@ -14,7 +14,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
 - [Folders structure](#folders-structure)
 - [Subproject (phases)](#subproject-phases)
-- [Naming](#naming)
+- [File naming](#file-naming)
 - [Archiving](#archiving)
 - [Layers](#layers)
 
@@ -48,7 +48,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 - (project) management or PM
        
 ===
-####Naming:
+####File naming:
 
 *@ project . subproject (phase) - file + version*
 
@@ -75,7 +75,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 - archive files using [BranchVer](https://github.com/we-build-dreams/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
         Use a letter as branch and 3 digits for work progress. No dots.
-        Example: @house in lisbon.permit-plans+AF02
+        Example: @house in lisbon.permit-plans+A082
 
 ===
 ####Layers:
