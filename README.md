@@ -27,7 +27,7 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 
         Example: @house in lisbon
 
-- phase: **.**
+- subproject (phase): **.**
 
     	Inside projects you have project phases:
         Example: .permit
@@ -70,9 +70,11 @@ Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.
 ===
 ####Archiving:
 
-- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . progress**
+- archive releases of (sub)projects using a simplified version of [SemVer](http://www.semver.org/): **+ major . minor (YYYY-MM-DD)**
 
-- archive files using [BranchVer](https://github.com/we-build-dreams/branchVer) (each version *adds* a change on data): **+ branch . progress**
+        Example: @house in lisbon.concept+1.0 (2016-02-24)
+
+- archive files using [BranchVer](https://github.com/we-build-dreams/branchVer): **+ branch . progress**
 
         Use a letter as branch and 3 digits for work progress. No dots.
         Example: @house in lisbon.permit-plans+A082
