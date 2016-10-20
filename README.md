@@ -1,12 +1,12 @@
 Gerbil-project
 ==============
 
-Gerbil-project, is an ultra-simple system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of an architectural team.
+Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of an architectural team.
 
 *MANTRAS:*
 
-- *dynamic:* every project is different so nesting complexity will be adapted to each project.<sup>1</sup>
-- *ultra-simple system with an easy learning curve for newbies:* newbies don't need to deal with all files - in large projects there isn't even time to explain all complexity - so every project has a subproject with project managing related files.
+- *dynamic:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
+- *ultra-simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 
 ###So, how can you start?
 
