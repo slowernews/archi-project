@@ -1,14 +1,14 @@
 Gerbil-project
-==============
+--------------
 
-Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of an architectural team.
+Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of my architectural team.
 
 *MANTRAS:*
 
 - *dynamic:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
-- *ultra-simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
+- *simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 
-###So, how can you start?
+### So, how can you start?
 
 **Organize your project:**
 
@@ -18,8 +18,8 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 - [Archiving](#archiving)
 - [Layers](#layers)
 
-===
-####Folders structure:
+---
+#### Folders structure:
 
 *@ project . subproject (phase) - level of completeness - specific folder*
 
@@ -35,20 +35,22 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         To reduce the need of memorization, when naming the subproject folder
         add the project name:
         Example: @house in lisbon.permit
-        
-- level of completeness: **layout (release)** or **work (in progress)**        
 
-===
-####Subproject (phases):
+
+
+---
+#### Subproject (phases):
 
 - concept or CON
 - permit or BP
 - tender or TEN
 - execution or EXE
 - (project) management or PM
-       
-===
-####File naming:
+
+
+
+---
+#### File naming:
 
 *@ project . subproject (phase) - file + version*
 
@@ -67,22 +69,26 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         
 - avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
-===
-####Archiving:
 
-- archive releases of (sub)projects using a simplified version of [SemVer](http://www.semver.org/): **+ major . minor (YYYY-MM-DD)**
 
-        Example: @house in lisbon.concept+1.0 (2016-02-24)
+---
+#### Archiving:
 
 - archive files using [BranchVer](https://github.com/we-build-dreams/branchVer): **+ branch . progress**
 
-        Use a letter as branch and 3 digits for work progress. No dots.
-        Example: @house in lisbon.permit-plans+A082
-        
-- keep a *changelog* file in every project.
+        Use a letter as branch and 2 digits for work progress.
+        Example: @house in lisbon.permit-plans+a82
 
-===
-####Layers:
+        Use branch 'r' for releases of subprojects:
+        Example: @house in lisbon.concept+r00
+
+        
+- keep updated *changelogs* in relevant folders.
+
+
+
+---
+#### Layers:
 
 - as defined in the dwg and ctb files attached. *(Coming soon)*
 
