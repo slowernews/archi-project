@@ -62,6 +62,8 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Elevations: E01, E02, E03, E04, ..
         Sections: S01, S02, S03, ..
         
+        Layout / presentation panel: L01, ..
+        
         Visualizations: V01, V02, V03, ..
         Booklet: B01, B02, B03, ..
         
@@ -76,8 +78,7 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Walls plan: WP1, W00, W01, ..
         Openings (windows & doors): J00, ..
         Cabinets: K00 ..
-        Other equipment: Z00, ..             
-        Landscape: L00 ..
+        Other equipment: Z00, ..
         Wayfinding: Y00 ..
 
 <!-- ahinqtux -->
@@ -94,10 +95,9 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Use a letter as branch and 2 digits for work progress.
         Example: @house in lisbon.permit-plans+a82
 
-        Use branch 'R' for releases of subprojects:
+        Use branch 'R' for releases of subprojects.
         Example: @house in lisbon.concept+R00
 
-        
 - keep updated *changelogs* in relevant folders.
 
 
