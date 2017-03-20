@@ -70,16 +70,20 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Siteplan: G00
         Urban plan: U00
         
-        Main functional cores: M00, ..
+        Functional cores: N00, ..
         Detail: D01, D02, D03, ..
         
         Floors plan: FP1, F00, F01, ..
         Ceilings plan: CP1, C00, C01, ..
         Walls plan: WP1, W00, W01, ..
         Openings (windows & doors): J00, ..
-        Cabinets: K00 ..
         Other equipment: Z00, ..
-        Wayfinding: Y00 ..
+
+- hints on file naming:
+
+        All sections: SSS
+        All plans: PPP
+        All elevations: EEE
 
 <!-- ahinqtux -->
         
