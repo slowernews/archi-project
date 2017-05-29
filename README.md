@@ -5,7 +5,7 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 
 *MANTRAS:*
 
-- *dynamic:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
+- *progressive:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
 - *simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 
 ### So, how can you start?
@@ -17,8 +17,6 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 - [File naming](#file-naming)
 - [Archiving](#archiving)
 - [Layers](#layers)
-
-
 
 ---
 #### Folders structure:
@@ -38,8 +36,6 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         add the project name:
         Example: @house in lisbon.permit
 
-
-
 ---
 #### Subproject (phases):
 
@@ -48,8 +44,6 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 - tender or TEN
 - execution or EXE
 - (project) management or PM
-
-
 
 ---
 #### File naming:
@@ -89,8 +83,6 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         
 - avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
-
-
 ---
 #### Archiving:
 
@@ -103,8 +95,6 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Example: @house in lisbon.concept+R00
 
 - keep updated *changelogs* in relevant folders.
-
-
 
 ---
 #### Layers:
