@@ -21,7 +21,7 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 ---
 #### Folders structure:
 
-*@ project . subproject (phase) - specific folder*
+*@ project .subproject (phase) -specific folder*
 
 - project: **@**
 
@@ -39,11 +39,11 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 ---
 #### Subproject (phases):
 
-- concept or CON
-- permit or BP
-- tender or TEN
-- execution or EXE
-- (project) management or PM
+- concept or CON - CON
+- permit or PER - LIC
+- tender or TEN - EXE
+- building works or BLD - OBR
+- (project) management or PMI
 
 ---
 #### File naming:
@@ -67,9 +67,9 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
         Functional cores: N00, ..
         Detail: D01, D02, D03, ..
         
-        Floors plan: FP1, F00, F01, ..
-        Ceilings plan: CP1, C00, C01, ..
-        Walls plan: WP1, W00, W01, ..
+        Floor types plan: FP1, F00, F01, ..
+        Ceiling types plan: CP1, C00, C01, ..
+        Wall types plan: WP1, W00, W01, ..
         Openings (windows & doors): J00, ..
         Other equipment: Z00, ..
 
