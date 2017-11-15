@@ -1,7 +1,7 @@
 Gerbil-project
 --------------
 
-Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](http://github.com/we-build-dreams/hamster-gtd)) polished to meet the needs of architects.
+Gerbil-project, is an ultra-simple organization system (based on [Superfolder](http://github.com/galfarragem/superfolder)) polished to meet the needs of architects.
 
 *MANTRAS:*
 
@@ -86,7 +86,7 @@ Gerbil-project, is an ultra-simple organization system (based on [Hamster-GTD](h
 ---
 #### Archiving:
 
-- archive files using [BranchVer](https://github.com/we-build-dreams/branchVer): **+ branch . progress**
+- archive files using BranchVer: **+ branch . progress**
 
         Use a letter as branch and 2 digits for work progress.
         Example: @house in lisbon.permit-plans+a82
