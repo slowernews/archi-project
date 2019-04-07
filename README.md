@@ -1,7 +1,7 @@
-Gerbil-project
+Super-project
 --------------
 
-Gerbil-project, is an ultra-simple organization system (based on [Superfolder](http://github.com/galfarragem/superfolder)) polished to meet the needs of architects.
+Super-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/archimodels/hamster-system#hamster-folder)) polished to meet the needs of architects.
 
 *MANTRAS:*
 
