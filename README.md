@@ -1,7 +1,7 @@
-Super-project
+archi-project
 --------------
 
-Super-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/archimodels/hamster-system#hamster-folder)) polished to meet the needs of architects.
+Archi-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
 
 *MANTRAS:*
 
