@@ -1,9 +1,8 @@
-archi-project
---------------
+# Archi-project
 
 Archi-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
 
-*MANTRAS:*
+*Core values:*
 
 - *progressive:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
 - *simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
@@ -21,34 +20,29 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 ---
 #### Folders structure:
 
-*@ project .subproject (phase) -specific folder*
+*#project @phase -specific folder*
 
-- project: **@**
+- project: **#**
 
-        Example: @house in lisbon
+        Example: #house in lisbon
 
-- subproject (phase): **.**
+- phase: **@**
 
     	Inside projects you have project phases:
-        Example: .permit
-
-        To reduce the need of memorization, when naming the subproject folder
-        add the project name:
-        Example: @house in lisbon.permit
+        Example: @permit
 
 ---
-#### Subproject (phases):
+#### Phases:
 
 - concept or CON - CON
 - permit or PER - LIC
 - tender or TEN - EXE
 - building works or BLD - OBR
-- (project) management or PMI
 
 ---
 #### File naming:
 
-*@ project . subproject (phase) - file + version*
+*#project @phase -file +version*
 
 - name your files using folders notation plus drawing/document name:
 
@@ -81,20 +75,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 <!-- ahinqtux -->
         
-- avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
-
----
-#### Archiving:
-
-- archive files using BranchVer: **+ branch . progress**
-
-        Use a letter as branch and 2 digits for work progress.
-        Example: @house in lisbon.permit-plans+a82
-
-        Use branch 'R' for releases of subprojects.
-        Example: @house in lisbon.concept+R00
-
-- keep updated *changelogs* in relevant folders.
+- avoid these symbols for regular naming: **# @ - + $**
 
 ---
 #### Layers:
