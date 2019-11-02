@@ -4,18 +4,20 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 *Core values:*
 
-- *progressive:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
 - *simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
+- *progressive:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
+
 
 ### So, how can you start?
 
 **Organize your project:**
 
 - [Folders structure](#folders-structure)
-- [Subproject (phases)](#subproject-phases)
 - [File naming](#file-naming)
+- [Phases and drawings](#phases-and-drawings)
 - [Archiving](#archiving)
 - [Layers](#layers)
+
 
 ---
 #### Folders structure:
@@ -31,15 +33,17 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
     	Inside projects you have project phases:
         Example: @permit
 
+
 ---
 #### File naming:
 
-*PROJECT-PHASE-(OPTION-)DRAWING-DATE*
+*PROJECT-PHASE-OPTION?-DRAWING-DATE*
 
 -E.g:
 
         PROJ-CON-02-P01-20191019.dwg
         PROJ-EXE-D01-20191019.dwg
+
 
 ---
 #### Phases and drawings:
@@ -78,6 +82,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 <!-- A H I J K O R X Y -->
 
+
 ---
 #### Layers:
 
@@ -88,4 +93,4 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 <sup>1 - E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..</sup>
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Gerbil-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archi-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
