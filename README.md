@@ -15,7 +15,6 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 - [Folders structure](#folders-structure)
 - [File naming](#file-naming)
 - [Phases and drawings](#phases-and-drawings)
-- [Archiving](#archiving)
 - [Layers](#layers)
 
 
@@ -51,20 +50,20 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 - phases:
 
         concept: CON
-        permit: LIC
-        tender: EXE
-        building works: BLD
+        permit (or license): LIC
+        tender (or execution): EXE
+        building phase: BLD
 
 - drawings:
 
         Plans: PP1, P00, P01, P02, P03, .. PPP (when all plans are in one drawing)
-        Elevations: E01, E02, E03, E04, .. EEE
+        Elevations: E01, E02, E03, .. EEE
         Sections: S01, S02, S03, .. SSS
         
-        Booklet: B01, B02, B03 .. BBB
+        Booklet: B01, B02, .. BBB
         Presentation panel/layout: L01, .. LLL  
-        Visualizations: V01, V02, V03, ..
-        Model photos: M01, M02, M03, ..
+        Visualizations: V01, V02, ..
+        Model photos: M01, M02, ..
         
         Siteplan: G00
         Urban plan: U00
@@ -75,8 +74,8 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
         Wall types plan: WP1, W00, W01, .. WWW
         'Holes' (windows & doors): H01, H02 .. HHH
         Functional cores: N01, N02 .. NNN
-        Detail: D01, D02, D03, .. DDD
-        Other equipment: Z01, Z02 .. ZZZ
+        Detail: D01, D02, .. DDD
+        Other equipment: Z01, Z02, .. ZZZ
         
         Quantities: Q01, Q02, .. QQQ
 
