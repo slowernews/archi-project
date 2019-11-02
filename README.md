@@ -32,50 +32,51 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
         Example: @permit
 
 ---
-#### Phases:
-
-- concept or CON - CON
-- permit or PER - LIC
-- tender or TEN - EXE
-- building works or BLD - OBR
-
----
 #### File naming:
 
-*#project @phase -file +version*
+*PROJECT-PHASE-(OPTION-)DRAWING-DATE*
 
-- name your files using folders notation plus drawing/document name:
+-E.g:
 
-        Plans: PP1, P00, P01, P02, P03, ..
-        Elevations: E01, E02, E03, E04, ..
-        Sections: S01, S02, S03, ..
+        PROJ-CON-02-P01-20191019.dwg
+        PROJ-EXE-D01-20191019.dwg
+
+---
+#### Phases and drawings:
+
+- phases:
+
+        concept: CON
+        permit: LIC
+        tender: EXE
+        building works: BLD
+
+- drawings:
+
+        Plans: PP1, P00, P01, P02, P03, .. PPP (when all plans are in one drawing)
+        Elevations: E01, E02, E03, E04, .. EEE
+        Sections: S01, S02, S03, .. SSS
         
-        Layout / presentation panel: L01, ..
-        
+        Booklet: B01, B02, B03 .. BBB
+        Presentation panel/layout: L01, .. LLL  
         Visualizations: V01, V02, V03, ..
-        Booklet: B01, B02, B03, ..
+        Model photos: M01, M02, M03, ..
         
         Siteplan: G00
         Urban plan: U00
+        Topography: T00
         
-        Functional cores: N00, ..
-        Detail: D01, D02, D03, ..
+        Floor types plan: FP1, F00, F01, .. FFF
+        Ceiling types plan: CP1, C00, C01, .. CCC
+        Wall types plan: WP1, W00, W01, .. WWW
+        'Holes' (windows & doors): H01, H02 .. HHH
+        Functional cores: N01, N02 .. NNN
+        Detail: D01, D02, D03, .. DDD
+        Other equipment: Z01, Z02 .. ZZZ
         
-        Floor types plan: FP1, F00, F01, ..
-        Ceiling types plan: CP1, C00, C01, ..
-        Wall types plan: WP1, W00, W01, ..
-        Openings (windows & doors): J00, ..
-        Other equipment: Z00, ..
+        Quantities: Q01, Q02, .. QQQ
 
-- hints on file naming:
-
-        All sections: SSS
-        All plans: PPP
-        All elevations: EEE
-
-<!-- ahinqtux -->
-        
-- avoid these symbols for regular naming: **# @ - + $**
+<!-- A H I J K O R X Y -->
 
 ---
 #### Layers:
