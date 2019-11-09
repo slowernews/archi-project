@@ -38,8 +38,6 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 *PROJECT-PHASE-OPTION?-DRAWING-DATE*
 
--E.g:
-
         PROJ-CON-02-P01-20191019.dwg
         PROJ-EXE-D01-20191019.dwg
 
@@ -56,30 +54,32 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 - drawings:
 
-        Plans: PP1, P00, P01, P02, P03, .. PPP (when all plans are in one drawing)
+        Plans: PB1, P00, P01, P02, P03, .. PPP (when all plans are in one drawing)
         Elevations: E01, E02, E03, .. EEE
         Sections: S01, S02, S03, .. SSS
+        
+        General plan (siteplan): G00
+        Urban plan: U00
+        Topography: T00
+        
+        Floor types plan: FB1, F00, F01, .. FFF
+        Ceiling types plan: CB1, C00, C01, .. CCC
+        Wall types plan: WP1, W00, W01, .. WWW
+        Holes (windows & doors): H01, H02 .. HHH
+        important Areas: A01, A02 ..
+        Details: D01, D02, .. DDD
+        Other equipment: Z01, Z02, .. ZZZ
+        
+        Quantities: Q01, Q02, .. QQQ
         
         Booklet: B01, B02, .. BBB
         Presentation panel/layout: L01, .. LLL  
         Visualizations: V01, V02, ..
-        Model photos: M01, M02, ..
-        
-        Siteplan: G00
-        Urban plan: U00
-        Topography: T00
-        
-        Floor types plan: FP1, F00, F01, .. FFF
-        Ceiling types plan: CP1, C00, C01, .. CCC
-        Wall types plan: WP1, W00, W01, .. WWW
-        'Holes' (windows & doors): H01, H02 .. HHH
-        Functional cores: N01, N02 .. NNN
-        Detail: D01, D02, .. DDD
-        Other equipment: Z01, Z02, .. ZZZ
-        
-        Quantities: Q01, Q02, .. QQQ
+        Model photos: M01, M02, .. 
+        Sketches: K01, K02, ..
+        References: R01, R02, ..
 
-<!-- A H I J K O R X Y -->
+<!-- J I N O X Y -->
 
 
 ---
