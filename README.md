@@ -5,7 +5,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 *Core values:*
 
 - *simple system with an easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
-- *progressive:* every project is different so folder's structure complexity will be adapted to each project.<sup>1</sup>
+- *progressive:* every project is different so folder<sup>1</sup> and files'<sup>2</sup> structure grow in complexity according the particualr needs of that project.
 
 
 ### So, how can you start?
@@ -89,7 +89,8 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 ---
 <sup>Notes:</sup><br>
-<sup>1 - E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..</sup>
+<sup>1 - The biggest smell in any organizational system is *empty folders*.</sup><br>
+<sup>2 - E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices do it..</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archi-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
