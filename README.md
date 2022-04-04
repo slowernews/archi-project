@@ -5,7 +5,7 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
 ### Core values
 
 - *Easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
-- *Progressive:* every project is different so folder[^1] and file[^2] structure are not fixed. However complexity - when needed - will grow in a predictable way.
+- *Progressive:* every project is different so folder structure[^1] is not fixed. However, complexity - when needed - will grow in a predictable way.
 
 ### So, how can you start organizing your project?
 
@@ -91,5 +91,4 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archi-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[^1]: The biggest "smell" in any organizational system is *empty folders*
-[^2]: E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices still do it..
+[^1]: The biggest "smell" in any organizational system is *empty folders*. E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices still do it..
