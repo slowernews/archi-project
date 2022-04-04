@@ -29,7 +29,10 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
     	Inside projects you have project phases:
         Example: @license
 
+- folder: **@**
 
+        Inside phases you have specific folders:
+        Example: -sections
 
 
 
@@ -37,7 +40,7 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
 
 *project -phase -drawing +date*
 
-        PROJ-CON-P01+20211019.dwg
+        PROJ-CON2-P01+20211019.dwg
         PROJ-EXE-D01+20211019.dwg
 
 - phases (and version when needed):
