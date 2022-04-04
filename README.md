@@ -1,6 +1,6 @@
 # Archi-project
 
-An ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
+An ultra-simple organization system (based on [Hamster-folder](https://github.com/slowernews/hamster-system#hamster-folder---organize-your-documents)) polished to meet the needs of architects.
 
 ### Core values
 
