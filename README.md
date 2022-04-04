@@ -2,7 +2,7 @@
 
 Archi-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
 
-#### Core values
+### Core values
 
 - *Easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 - *Progressive:* every project is different so folder[^1] and file[^2] structure is not fixed. Complexity only grows when needed.
@@ -20,7 +20,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 
 
-### Folders structure:
+## Folders structure
 
 *#project @phase -specific folder*
 
@@ -37,7 +37,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 
 
-### File naming:
+## File naming
 
 *PROJECT-PHASE-DRAWING+VERSION DATE*
 
@@ -83,15 +83,15 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 
 
----
-#### Layers:
+## Layers
 
 - as defined in the dwg and ctb files attached. *(Coming soon)*
 
----
 
-[^1]: The biggest "smell" in any organizational system is *empty folders*.</sup><br>
-[^2]: E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices still do it..
+
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archi-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+[^1]: The biggest "smell" in any organizational system is *empty folders*.</sup><br>
+[^2]: E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices still do it..
