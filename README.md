@@ -5,8 +5,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 ### Core values
 
 - *Easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
-- *Progressive:* every project is different so folder[^1] and file[^2] structure is not fixed. Complexity only grows when needed.
-
+- *Progressive:* every project is different so folder[^1] and file[^2] structure are not fixed. However complexity - when needed - will grow in a predictable way.
 
 ### So, how can you start?
 
@@ -14,7 +13,6 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 - [Folders structure](#folders-structure)
 - [File naming](#file-naming)
-- [Phases and drawings](#phases-and-drawings)
 - [Layers](#layers)
 
 
@@ -39,12 +37,12 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 
 ## File naming
 
-*PROJECT-PHASE-DRAWING+VERSION DATE*
+*project -phase -drawing +date*
 
         PROJ-CON-P01+20211019.dwg
         PROJ-EXE-D01+20211019.dwg
 
-- phases and versions:
+- phases (and and version when needed):
 
         concept: CON (CON2, CON3, ..)
         permit (or license): LIC (LIC2, LIC3, ..)
@@ -93,5 +91,5 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archi-project</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[^1]: The biggest "smell" in any organizational system is *empty folders*.</sup><br>
+[^1]: The biggest "smell" in any organizational system is *empty folders*
 [^2]: E.g. doesn't make sense to add extra XREF complexity when you are working alone in a micro project. Some offices still do it..
