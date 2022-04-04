@@ -1,13 +1,13 @@
 # Archi-project
 
-Archi-project, is an ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
+An ultra-simple organization system (based on [Hamster-folder](https://github.com/slownews/hamster-system#hamster-folder)) polished to meet the needs of architects.
 
 ### Core values
 
 - *Easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 - *Progressive:* every project is different so folder[^1] and file[^2] structure are not fixed. However complexity - when needed - will grow in a predictable way.
 
-### So, how can you start to organize your project?
+### So, how can you start organizing your project?
 
 - [Folders structure](#folders-structure)
 - [File naming](#file-naming)
