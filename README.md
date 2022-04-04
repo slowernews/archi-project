@@ -7,9 +7,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
 - *Easy learning curve for newbies:* a macro understanding of the project should be easy to grasp.
 - *Progressive:* every project is different so folder[^1] and file[^2] structure are not fixed. However complexity - when needed - will grow in a predictable way.
 
-### So, how can you start?
-
-**Organize your project:**
+### So, how can you start to organize your project?
 
 - [Folders structure](#folders-structure)
 - [File naming](#file-naming)
@@ -42,7 +40,7 @@ Archi-project, is an ultra-simple organization system (based on [Hamster-folder]
         PROJ-CON-P01+20211019.dwg
         PROJ-EXE-D01+20211019.dwg
 
-- phases (and and version when needed):
+- phases (and version when needed):
 
         concept: CON (CON2, CON3, ..)
         permit (or license): LIC (LIC2, LIC3, ..)
