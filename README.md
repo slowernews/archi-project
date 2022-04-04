@@ -62,11 +62,10 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
 
         Floor types plan: FB1, F00, F01, .. FFF
         Ceiling types plan: CB1, C00, C01, .. CCC
-        Wall types plan: WP1, W00, W01, .. WWW
+        Wall types plan: WB1, W00, W01, .. WWW
         Holes (windows & doors): H01, H02 .. HHH
-        important Areas: A01, A02 .. AAA
         Details: D01, D02, .. DDD
-        other equipment: Z01, Z02, .. ZZZ
+        other equipment and furniture: Z01, Z02, .. ZZZ
 
         Quantities: Q01, Q02, .. QQQ
 
@@ -77,7 +76,7 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
         Booklet: B01, B02, .. BBB
         References: R01, R02, .. RRR
 
-<!-- J I N O X Y -->
+<!-- A I J N O X Y -->
 
 
 
