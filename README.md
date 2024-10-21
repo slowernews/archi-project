@@ -29,7 +29,7 @@ An ultra-simple organization system (based on [Hamster-folder](https://github.co
     	Inside projects you have project phases:
         Example: @license
 
-- folder: **@**
+- folder: **-**
 
         Inside phases you have specific folders:
         Example: -sections
